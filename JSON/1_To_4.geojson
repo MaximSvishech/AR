@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "1_To_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Angle": 276.96209, "Meter": 18, "Direction": "west", "Additional": "1_to_4_a" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.773335654101793, 32.015723766660443 ], [ 34.773146032537774, 32.015746921917291 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Angle": 189.724792, "Meter": 34, "Direction": "south", "Additional": "1_to_4_b" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.773146032537774, 32.015746803172398 ], [ 34.773093935623585, 32.015442815744457 ] ] ] } },
+{ "type": "Feature", "properties": { "id": 3, "Angle": 96.503203, "Meter": 8, "Direction": "east", "Additional": "1_to_4_c" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.773094005646321, 32.015442964176067 ], [ 34.773178383040943, 32.015433345807409 ] ] ] } }
+]
+}
